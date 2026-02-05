@@ -56,3 +56,19 @@ h4{
      list-style-type: circle ;
      color: white;
 }
+
+.link{
+
+    
+    display: flex;
+    justify-content: space-between;
+   
+    
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    padding: 20px;
+     list-style-type: none; 
+
+}
